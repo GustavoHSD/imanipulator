@@ -40,9 +40,6 @@ Imanipulator is a simple image processing application built with Tkinter. It all
 4. Select an output directory when prompted.
 5. Processed images will be saved in the chosen directory.
 
-## Screenshots
-_Add screenshots here if available_
-
 ## Future Improvements
 - Add more image editing options (e.g., cropping, filters)
 - Improve UI/UX with better layout and styling
